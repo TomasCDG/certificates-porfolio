@@ -19,4 +19,3 @@ for img in os.listdir(folder):
     st.divider()
     st.image(imgpath, use_column_width="auto")
 
-st.write("*I don't have a digital version of the diploma! Sorry!*")
